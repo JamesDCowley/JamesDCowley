@@ -1,14 +1,14 @@
 # 👋 Hi, I’m James Cowley
 
-🚀 I'm a senior Computer Science student at **Texas State University** with a passion for software development. I'm currently a **CubeSat Software Developer** contributing to the development of **Texas State’s first satellite**—[Pleiades-Maia](https://txstspacelab.org/?page_id=182), currently set to launch to the ISS aboard [NG-23](https://nextspaceflight.com/launches/details/7072).
+🚀 I'm a senior Computer Science student at **Texas State University** with a passion for software development. I'm currently a **CubeSat Software Developer** contributing to the development of **Texas State’s first satellite**—[Pleiades-Maia](https://txstspacelab.org/?page_id=182).
 
 ---
 
 ## 🛰️ Current Projects
 
 ### 🚀 PROVES Kit CubeSat Software ([repo](https://github.com/proveskit/pysquared))
-- Creating software for the [PROVES Kit](https://github.com/proveskit) -- a sattelite kit that's easy for institutions who aren't as experienced in sattelite development to put together and integrate a payload.
--  Programmed for spaceflight applications, emphasizing reliability, redundancy, and constrained hardware
+- Creating software for the [PROVES Kit](https://github.com/proveskit) -- a sattelite kit that makes it easy for institutions who aren't as experienced in sattelite development to put together and integrate a payload.
+-  Programming for spaceflight applications, emphasizing reliability, redundancy, and constrained hardware
  environments.
 
 ### 🏟️ Texas SORM Conference App
