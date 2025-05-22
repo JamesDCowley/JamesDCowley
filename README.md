@@ -1,6 +1,6 @@
 # 👋 Hi, I’m James Cowley
 
-🚀 I'm a senior Computer Science student at **Texas State University** with a passion for software development. I'm currently a **CubeSat Software Developer** contributing to the development of **Texas State’s first satellite**—[Pleiades-Maia](https://txstspacelab.org/?page_id=182).
+🚀 I'm a graduate of **Texas State University** with a **B.S. in Computer Science** and a passion for software development. I'm currently a **CubeSat Software Developer** contributing to the development of **Texas State’s first satellite**—[Pleiades-Maia](https://txstspacelab.org/?page_id=182).
 
 ---
 
@@ -11,8 +11,8 @@
 -  Programming for spaceflight applications, emphasizing reliability, redundancy, and constrained hardware
  environments.
 
-### 🏟️ Texas SORM Conference App
-- Making an app for the [Texas State Office of Risk Managment](https://www.sorm.state.tx.us/)'s upcoming conference.
+### 🏟️ Texas SORM Conference App ([repo](https://github.com/sorm-conference-app/conference-app))
+- Making a mobile app for the [Texas State Office of Risk Managment](https://www.sorm.state.tx.us/)'s upcoming conference.
 
 ---
 
@@ -42,7 +42,7 @@ Official site for the Texas State **.EXE Computer Science Club**, used to share 
 
 ## 🧠 Leadership & Interests
 
-- **Vice President** of the **TXST.EXE Computer Science Club***  
+- **Vice President** of the **TXST.EXE Computer Science Club**  
   Hosting weekly tech talks, coding workshops, and industry panels for a growing community of 50+ members.
 
 - **Interests**: CubeSats, embedded systems, spacecraft software, web development, game development.
